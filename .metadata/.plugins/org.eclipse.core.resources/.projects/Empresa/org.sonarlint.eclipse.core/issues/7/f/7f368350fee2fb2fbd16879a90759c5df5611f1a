@@ -1,0 +1,31 @@
+
+s	java:S125"<This block of commented-out lines of code should be removed.( úÕıÿÿÿÿ8·„€Çì0HĞRMAJORZ
+CODE_SMELL
+„
+java:S1450"QRemove the "st" field and declare it as a local variable in the relevant methods.(ÍÂÅí8ÏŠì0H¶RMINORZ
+CODE_SMELL
+	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ŸÀÜ8ÅÁÀœì0H¯RCRITICALZ
+CODE_SMELL
+Y
+java:S1068"&Remove this unused "st" private field.(ÍÂÅí8·„€Çì0HÔRMAJORZ
+CODE_SMELL
+`
+java:S4925"-Remove this "Class.forName()", it is useless.(„Ë†¬8ûƒƒì0H°RMAJORZ
+CODE_SMELL
+[	java:S108`")Either remove or fill this block of code.(É®£8Ã›ùÇì0HßRMAJORZ
+CODE_SMELL
+f
+java:S1128".Remove this unused import 'java.util.Scanner'.(ÒÜÅ¸úÿÿÿÿ8ç–Çì0HšRMINORZ
+CODE_SMELL
+x	java:S101
+"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ô‚îŒH´RMINORZ
+CODE_SMELL
+”	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(Ì´Ù–úÿÿÿÿ8ÅÁÀœì0H³RCRITICALZ
+CODE_SMELL
+m
+java:S1118
+":Add a private constructor to hide the implicit public one.(Ô‚îŒ8°«îì0HµRMAJORZ
+CODE_SMELL
+d
+java:S1135("2Complete the task associated to this TODO comment.(‡ñÅ¼8‡ŸŠì0H²RINFOZ
+CODE_SMELL

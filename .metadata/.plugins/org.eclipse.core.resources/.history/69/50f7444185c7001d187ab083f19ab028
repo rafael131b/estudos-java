@@ -1,0 +1,22 @@
+package application;
+
+import db.DbException;
+import entities.model.Carro;
+import entities.model.Pessoa;
+import model.dao.CarroDao;
+import model.dao.DaoFactory;
+import model.dao.PessoaDao;
+
+public class Program {
+
+	public static void main(String[] args) throws DbException {
+		
+		CarroDao  carroDao=DaoFactory.createCarroDao();
+		PessoaDao pessoaDao=DaoFactory.createPessoa();
+		
+		Pessoa pessoa=pessoaDao.findById(5);
+		Pessoa pessoa2=pessoaDao.inserir("Paulo souza","","","");
+		
+	}
+
+}

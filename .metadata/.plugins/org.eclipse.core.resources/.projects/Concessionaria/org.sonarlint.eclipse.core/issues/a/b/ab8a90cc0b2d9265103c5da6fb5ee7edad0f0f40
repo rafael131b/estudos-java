@@ -1,0 +1,17 @@
+
+s	java:S125"<This block of commented-out lines of code should be removed.(Ì¤¢úÿÿÿÿ8³Ä‹ğ0H‘ORMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(šÉ†Í8ü¦°‚ñ0HORMAJORZ
+CODE_SMELL
+u
+java:S1854"=Remove this useless assignment to local variable "pessoaDao".(ÍÖ‰øÿÿÿÿ8É´Ê‚ñ0HORMAJORZ
+CODE_SMELL
+i
+java:S1128"1Remove this unused import 'entities.model.Carro'.(é¦õìÿÿÿÿÿ8ß†ó†ñ0HïORMINORZ
+CODE_SMELL
+f
+java:S1481".Remove this unused "pessoaDao" local variable.(ÍÖ‰øÿÿÿÿ8É´Ê‚ñ0HORMINORZ
+CODE_SMELL
+e
+java:S1128"2Remove this unused import 'entities.model.Pessoa'.(Õì¥â8Öï‚ñ0H–ORMINORZ
+CODE_SMELL

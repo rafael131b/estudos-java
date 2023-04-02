@@ -1,0 +1,9 @@
+
+p
+java:S1854
+"8Remove this useless assignment to local variable "conn".(¨Á²°øÿÿÿÿ8ô¦Àýé0H‰ORMAJORZ
+CODE_SMELL
+a
+java:S1481
+")Remove this unused "conn" local variable.(¨Á²°øÿÿÿÿ8ô¦Àýé0HŠORMINORZ
+CODE_SMELL

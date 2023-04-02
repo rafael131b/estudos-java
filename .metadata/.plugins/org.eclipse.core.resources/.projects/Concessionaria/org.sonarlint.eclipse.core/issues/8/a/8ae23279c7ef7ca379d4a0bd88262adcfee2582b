@@ -1,0 +1,54 @@
+
+i
+java:S1117["6Rename "st" which hides the field declared at line 20.(ÙÕä±8¶÷€‚ñ0H³NRMAJORZ
+CODE_SMELL
+{
+java:S2095_"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ï±ÔşÿÿÿÿÿH¾NRBLOCKERZBUG
+j
+java:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ñ“•‚ñ0H¸NRINFOZ
+CODE_SMELL
+b
+java:S1135<"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿH¼NRINFOZ
+CODE_SMELL
+j
+java:S1117–"6Rename "st" which hides the field declared at line 20.(Œ×Õ³8›óÚ†ñ0HôNRMAJORZ
+CODE_SMELL
+s	java:S125x"<This block of commented-out lines of code should be removed.(åŞğ‰şÿÿÿÿ8˜áÀ‡ñ0H²SRMAJORZ
+CODE_SMELL
+i
+java:S1135q"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8ˆÃæ‚ñ0H½NRINFOZ
+CODE_SMELL
+j
+java:S1135¥"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8”åÁ‡ñ0H×SRINFOZ
+CODE_SMELL
+X
+java:S1168©"+Return an empty collection instead of null.(¥¹ïH¹NRMAJORZ
+CODE_SMELL
+i
+java:S1117D"6Rename "st" which hides the field declared at line 20.(ÙÕä±8ˆÃæ‚ñ0HµNRMAJORZ
+CODE_SMELL
+o
+java:S1117—"6Rename "rs" which hides the field declared at line 19.(ÀÇÄûÿÿÿÿ8µÙç†ñ0H§ORMAJORZ
+CODE_SMELL
+z
+java:S1854'"BRemove this useless assignment to local variable "linhasAfetadas".(Í°ßÚşÿÿÿÿ8ÀŠ¬‚ñ0H·NRMAJORZ
+CODE_SMELL
+i
+java:S1135S"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8­…À‚ñ0H­NRINFOZ
+CODE_SMELL
+i
+java:S1135,"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8˜Ü†ñ0HˆORINFOZ
+CODE_SMELL
+k
+java:S1481'"3Remove this unused "linhasAfetadas" local variable.(Í°ßÚşÿÿÿÿ8ÀŠ¬‚ñ0H®NRMINORZ
+CODE_SMELL
+‚
+java:S2095H"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ï±Ôşÿÿÿÿÿ8åõ‚ñ0H´NRBLOCKERZBUG
+u
+java:S2095›"GUse try-with-resources or close this "Statement" in a "finally" clause.(á‚y8µÙç†ñ0H¤ORBLOCKERZBUG
+n
+java:S1117\"6Rename "rs" which hides the field declared at line 19.(ÀÇÄûÿÿÿÿ8¶÷€‚ñ0H²NRMAJORZ
+CODE_SMELL
+e
+java:S1135"2Complete the task associated to this TODO comment.(ÉÚõÎ8Ï¥‡ñ0HĞQRINFOZ
+CODE_SMELL

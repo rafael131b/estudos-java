@@ -1,0 +1,21 @@
+
+F
+java:S1220""Move this file to a named package.H’RMINORZ
+CODE_SMELL
+s	java:S125S"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8óÏªôë0H‰RMAJORZ
+CODE_SMELL
+e
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8–Ý”õë0H£RMINORZ
+CODE_SMELL
+Z
+java:S1481"'Remove this unused "st" local variable.(Œ×Õ³8ÂÍƒôë0H“RMINORZ
+CODE_SMELL
+_
+java:S1481"'Remove this unused "rs" local variable.(ÀÇÄûÿÿÿÿ8ÂÍƒôë0H•RMINORZ
+CODE_SMELL
+s	java:S125."<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8ÂÍƒôë0HûRMAJORZ
+CODE_SMELL
+s	java:S125?"<This block of commented-out lines of code should be removed.(ñ¥ùšøÿÿÿÿ8–Ý”õë0H—RMAJORZ
+CODE_SMELL
+}
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(›Î›8Ðƒ¨õë0HˆRBLOCKERZBUG

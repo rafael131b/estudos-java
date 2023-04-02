@@ -1,0 +1,17 @@
+
+Z
+java:S1481
+"'Remove this unused "st" local variable.(’êºª8Ë“öë0HÛRMINORZ
+CODE_SMELL
+e
+java:S1128"2Remove this unused import 'java.sql.SQLException'.(ÛïÆŸ8ÀŠöë0HİRMINORZ
+CODE_SMELL
+a
+java:S1481	")Remove this unused "conn" local variable.(şöì¦ùÿÿÿÿ8ƒñ†öë0HßRMINORZ
+CODE_SMELL
+p
+java:S1854"8Remove this useless assignment to local variable "conn".(…ä‹åüÿÿÿÿ8ÀŠöë0HàRMAJORZ
+CODE_SMELL
+Z
+java:S1481"'Remove this unused "rs" local variable.(¼õ’›8Ë“öë0HáRMINORZ
+CODE_SMELL

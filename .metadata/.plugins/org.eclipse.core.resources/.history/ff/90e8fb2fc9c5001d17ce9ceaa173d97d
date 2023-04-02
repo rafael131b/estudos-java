@@ -1,0 +1,11 @@
+package entities.model;
+
+import java.sql.Date;
+
+public class Pessoa {
+
+	private String pessoa;
+	private String cpf;
+	private Date nascimento;
+	
+}

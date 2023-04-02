@@ -1,0 +1,18 @@
+package application;
+
+import db.DbException;
+import entities.model.Carro;
+import model.dao.CarroDao;
+import model.dao.DaoFactory;
+
+public class Program {
+
+	public static void main(String[] args) throws DbException {
+		
+		CarroDao  carroDao=DaoFactory.createCarroDao();
+		Carro carro=carroDao.findById(2);
+		System.out.println(carro);
+
+	}
+
+}

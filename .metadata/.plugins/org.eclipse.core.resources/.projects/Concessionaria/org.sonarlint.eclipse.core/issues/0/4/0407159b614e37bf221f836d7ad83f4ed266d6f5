@@ -1,0 +1,62 @@
+
+‚
+java:S2095H"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ï±Ôşÿÿÿÿÿ8ëÑïğ0HÁNRBLOCKERZBUG
+o
+java:S1854n"7Remove this useless assignment to local variable "sql".(³”Œ“ıÿÿÿÿ8Ìã Œğ0HÂNRMAJORZ
+CODE_SMELL
+Z
+java:S1481m"'Remove this unused "st" local variable.(ÙÕä±8³éØŞğ0HÃNRMINORZ
+CODE_SMELL
+o
+java:S1854"6Remove this useless assignment to local variable "st".(ï±Ôşÿÿÿÿÿ8ëŠ•ßğ0HÅNRMAJORZ
+CODE_SMELL
+‚
+java:S2095]"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ï±Ôşÿÿÿÿÿ8¸±ñğ0HÆNRBLOCKERZBUG
+t
+java:S1128
+"<Remove this unused import 'com.mysql.cj.protocol.Resultset'.(«‹’ûÿÿÿÿ8ğõ•ßğ0HÇNRMINORZ
+CODE_SMELL
+_
+java:S14811"'Remove this unused "rs" local variable.(ÀÇÄûÿÿÿÿ8Ìã Œğ0HÉNRMINORZ
+CODE_SMELL
+i
+java:S1128"1Remove this unused import 'entities.model.Carro'.(é¦õìÿÿÿÿÿ8ğõ•ßğ0HËNRMINORZ
+CODE_SMELL
+‚
+java:S20955"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ï±Ôşÿÿÿÿÿ8ĞÉîŞğ0HÍNRBLOCKERZBUG
+ƒ
+java:S2095‚"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ï±Ôşÿÿÿÿÿ8ëŠ•ßğ0HÎNRBLOCKERZBUG
+_
+java:S1481"'Remove this unused "rs" local variable.(ÀÇÄûÿÿÿÿ8ÄÍéŒğ0HÏNRMINORZ
+CODE_SMELL
+_
+java:S1481l"'Remove this unused "rs" local variable.(ÀÇÄûÿÿÿÿ8äçïğ0HÑNRMINORZ
+CODE_SMELL
+^
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8ğõ•ßğ0HÓNRMINORZ
+CODE_SMELL
+`
+java:S1481n"(Remove this unused "sql" local variable.(³”Œ“ıÿÿÿÿ8ğõ•ßğ0HÕNRMINORZ
+CODE_SMELL
+_
+java:S1481Y"'Remove this unused "rs" local variable.(ÀÇÄûÿÿÿÿ8ãÄ—Şğ0H×NRMINORZ
+CODE_SMELL
+_
+java:S1481C"'Remove this unused "rs" local variable.(ÀÇÄûÿÿÿÿ8ëÑïğ0HÙNRMINORZ
+CODE_SMELL
+ƒ
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ï±Ôşÿÿÿÿÿ8ëŠ•ßğ0HÛNRBLOCKERZBUG
+_
+java:S1481|"'Remove this unused "rs" local variable.(ÀÇÄûÿÿÿÿ8³éØŞğ0HÜNRMINORZ
+CODE_SMELL
+‹
+java:S1192$"PDefine a constant instead of duplicating this literal "linhas afetadas" 5 times.(Àíòúÿÿÿÿ8êŠˆğ0HŞNRCRITICALZ
+CODE_SMELL
+d
+java:S1135<"2Complete the task associated to this TODO comment.(‡ñÅ¼8¸±ñğ0HäNRINFOZ
+CODE_SMELL
+W
+java:S1168w"+Return an empty collection instead of null.(¥¹ïHåNRMAJORZ
+CODE_SMELL
+‚
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ï±Ôşÿÿÿÿÿ8á¦©Óï0HèNRBLOCKERZBUG

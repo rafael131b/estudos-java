@@ -1,0 +1,22 @@
+package model.dao;
+
+
+import java.sql.Date;
+import java.util.List;
+
+import entities.model.Carro;
+import entities.model.Pessoa;
+
+
+
+public interface PessoaDao {
+	
+	 public Pessoa inserir (String nome);
+	 public void inserir (String nome,Date nascimento,String endereco,String cpf);
+	 public void delete(int id);
+	 public void update(String nome,Date nascimento,String endereco,String cpf);
+	 public Pessoa findById(int id);
+	 public List<Pessoa> findAll ();
+	 
+
+}

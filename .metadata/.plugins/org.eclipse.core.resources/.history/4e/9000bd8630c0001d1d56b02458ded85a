@@ -1,0 +1,46 @@
+
+
+import DAO.ProfessorDao;
+import db.DB;
+import db.DbException;
+
+public class Program {
+	public static void main(String[] args) {
+		
+		Escola escola=new Escola("Albino Fiore",280);
+		Professor Aline=new Professor("Química", 3200.00);
+		Professor Paulo=new Professor("História", 3100.00);
+		
+		Aline.setNome("Aline Castro ");
+		
+		Paulo.setNome("Paulo Rocha");
+		Paulo.setCpf("44939398339");
+		Paulo.setIdade(35);
+		
+		
+		escola.AdicionarProfessor(Aline);
+		escola.AdicionarProfessor(Paulo);
+		
+		for (Professor prof:escola.verProfessor()) {
+			try {
+				ProfessorDao.adicionarBanco(prof.getMateria(),prof.getSalario());
+			} catch (DbException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+			
+		}
+//			System.out.println(Aline.getMateria());
+//		System.out.println(escola.verProfessor().get(0).getMateria());
+//		
+	
+		try {
+//			ProfessorDao.adicionarBanco(escola.verProfessor().get(1).getMateria(),escola.verProfessor().get(1).getSalario());
+			DB.conectar();
+		} catch (DbException e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		
+	}
+}

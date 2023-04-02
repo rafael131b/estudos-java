@@ -1,0 +1,24 @@
+
+i
+java:S1135 "2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8œÌì•î0HÁ/RINFOZ
+CODE_SMELL
+e
+java:S6126."2Replace this String concatenation with Text block.(ã‹¸Ã8èÖ×ï0HÆ/RMAJORZ
+CODE_SMELL
+‚
+java:S20954"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(ï±Ôşÿÿÿÿÿ8èÖ×ï0HÃ/RBLOCKERZBUG
+i
+java:S1135&"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8œÌì•î0HÈ/RINFOZ
+CODE_SMELL
+i
+java:S1135R"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8œÌì•î0HÇ/RINFOZ
+CODE_SMELL
+^
+java:S1168S"+Return an empty collection instead of null.(¥¹ï8œÌì•î0H¾/RMAJORZ
+CODE_SMELL
+i
+java:S1135"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8œÌì•î0HÂ/RINFOZ
+CODE_SMELL
+t
+java:S1128	"<Remove this unused import 'com.mysql.cj.protocol.Resultset'.(«‹’ûÿÿÿÿ8èÖ×ï0HÄ/RMINORZ
+CODE_SMELL

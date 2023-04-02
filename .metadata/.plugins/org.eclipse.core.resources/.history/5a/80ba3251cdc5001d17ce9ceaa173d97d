@@ -1,0 +1,13 @@
+package model.dao;
+
+import entities.model.Carro;
+
+public interface CarroDao {
+	
+	
+	 public void inserir (Carro car);
+	 public void delete(int id);
+	 public void update(Carro car);
+	 public void findById(int id);
+
+}

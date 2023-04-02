@@ -1,0 +1,10 @@
+package model.dao;
+
+import model.impl.PessoaDaoJDBC;
+
+public class DaoFactory {
+
+	public static PessoaDao createPessoaDao() {
+		return new PessoaDaoJDBC();
+	}
+}

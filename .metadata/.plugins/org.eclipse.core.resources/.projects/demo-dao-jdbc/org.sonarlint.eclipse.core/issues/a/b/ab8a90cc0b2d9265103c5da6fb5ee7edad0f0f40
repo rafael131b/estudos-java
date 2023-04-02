@@ -1,0 +1,10 @@
+
+`
+java:S1481"(Remove this unused "obj" local variable.(êà•‰øÿÿÿÿ8áÅ¥Œð0Hº/RMINORZ
+CODE_SMELL
+o
+java:S1854"7Remove this useless assignment to local variable "obj".(êà•‰øÿÿÿÿ8áÅ¥Œð0H¹/RMAJORZ
+CODE_SMELL
+^
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8áÅ¥Œð0H¼/RMINORZ
+CODE_SMELL

@@ -1,0 +1,10 @@
+package model.dao;
+
+import entities.model.Carro;
+
+public interface CarroDao {
+	
+	
+	 public void inserir (Carro car);
+
+}
